@@ -10,6 +10,7 @@ This web app lets you communicate with the database directly without requiring k
 - You can create your own database and talk to it
 
 ## How to Clone It
+- Dm for private repo & follow below
 
 1) **Create a virtual environment:**
 ```bash

@@ -5,9 +5,15 @@ This web app lets you communicate with the database directly without requiring k
 ## Watch it live 🟢
 🤗 [Live_app](https://huggingface.co/spaces/Asstrofic/Talk-to-DB)
 - You can talk to default database
+![UI](/ss/db1.PNG)
+
+- Obtained answers
+![UI](/ss/d1.PNG)
+![UI](/ss/d2.PNG)
 
 🅰 [Live_app_Advance](https://huggingface.co/spaces/Asstrofic/Talk-to-DB-Advance)
 - You can create your own database and talk to it
+![UI](/ss/db3.PNG)
 
 ## How to Clone It
 - Dm for private repo & follow below

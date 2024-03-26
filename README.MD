@@ -19,7 +19,6 @@ This web app lets you communicate with the database directly without requiring k
 <img src="/ss/db3.PNG" alt="UI" width="700">
 
 #
-
 # How to Clone It
 - Dm for private repo & follow below
 

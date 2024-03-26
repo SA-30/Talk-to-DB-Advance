@@ -6,17 +6,17 @@ This web app lets you communicate with the database directly without requiring k
 🤗 [Live_app](https://huggingface.co/spaces/Asstrofic/Talk-to-DB)
 - You can talk to default database
 
-<img src="/ss/db1.PNG" alt="UI" width="400">
+<img src="/ss/db1.PNG" alt="UI" width="700">
 
 - Obtained answers
 
-<img src="/ss/d1.PNG" alt="UI" width="400">
-<img src="/ss/d2.PNG" alt="UI" width="400">
+<img src="/ss/d1.PNG" alt="UI" width="700">
+<img src="/ss/d2.PNG" alt="UI" width="700">
 
 🅰 [Live_app_Advance](https://huggingface.co/spaces/Asstrofic/Talk-to-DB-Advance)
 - You can create your own database and talk to it
 
-<img src="/ss/db3.PNG" alt="UI" width="400">
+<img src="/ss/db3.PNG" alt="UI" width="700">
 
 ## How to Clone It
 - Dm for private repo & follow below
